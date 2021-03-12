@@ -5,6 +5,7 @@
  
  * Run the program and input the path of your .xlsx Excel document
     - `python main.py`
+    - NOTE: You may need to rename your `.xls` file to `.xlsx`
   
 * The result will be output to `output.jpg` in the same directory
 
