@@ -39,7 +39,7 @@ def hex_to_rgb(vhex):
 
 if __name__ == '__main__':
     # Get the file name from user
-    file = input("Enter XLSX file name: ")
+    file = input("Enter XLSX file path: ")
 
     # Let user know it's working
     print("Converting your Excel file to an image...")
